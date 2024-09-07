@@ -17,3 +17,7 @@ target/
 # File system
 .DS_Store
 desktop.ini
+
+# Flake stuff
+.direnv
+.pre-commit-config.yaml
